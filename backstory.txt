@@ -1,0 +1,24 @@
+"The ULS Galactic Cockswoggler was christened in the fourth space-month of the 
+24XXth space-year of our space-savior Jesse L. Nova-Christ.  At eight hundred 
+and ninety thousand metric space-tons the Galactic Cockswoggler is the fourth 
+largest colony ship in the galactic fleet.  Named after General E. B. 
+Cockswoggler-Hypernova, the most decorated soldier of Space-World War IV, she 
+continues the proud tradition of hundreds of years of space-navy work for the 
+greater human good. Tasked with spreading humankind to the far edges of space 
+the Swoggly was sent off to colonize the probably uninhabited Gliese 667 Ce. 
+Struggling onwards she has reached the last leg of her XX year voyage and 
+success is in sight.  Her brave crew and unwitting passengers have endured many 
+space-tragedies that would have crushed a lesser crew.  Unknown to the men, 
+women, and chrimen of the ship damage has accumulated over the years. The 
+Swoggly has sustained severe system damage and may not make the journey.  Deep 
+within the purpose built computer core the artificial space-intelligence boots 
+and prepares to save the ship and her good crew..."
+
+"Beep. Beep. Beep.  WARNING: Emergency subsystems online. WARNING: Damage 
+detected in fuel chamber. CRITICAL: Fuel-Mass ratio below necessary level.
+CRITICAL: Ejecting damaged compartments.  ERROR: Command Failure.  ERROR: ERROR:
+ERROR: ERROR: Passenger-Pod3 Detaching.  SEGMENTATION FAULT: Core Dumped,
+Emergency Subsystem Failure. Critical: Emergency Subsystem Offline.  WARNING:
+Primary Emergency Systems Online..."
+   
+
