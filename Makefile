@@ -12,3 +12,9 @@ install:
 	cp -R src/art/* build/art/
 	cp -R src/css/* build/css/
 	cp -R src/ecma/* build/scripts/
+
+clean:
+	rm -r build
+
+run:
+	cd build; python2 -m SimpleHTTPServer 8000
