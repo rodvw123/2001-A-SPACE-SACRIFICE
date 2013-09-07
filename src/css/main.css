@@ -1,16 +1,17 @@
 body {
 	color: rgb(20,20,20);
-	background-color: rgb(255,255,255);
+	background: url('../art/space.png') no-repeat fixed center;
+	background-size:100% 100%;
 }
 #main_table {
-
+	background: rgba(0,0,0,0);
 }
 .tab_content {
 	font-size: 12;
 }
 .overlay {
 	color: #555555;
-	background-color: rgb(255,255,255);
+	background-color: rgba(255,255,255,0.75);
 
 	border-color: #aaaaaa;
 	border-style: solid;
