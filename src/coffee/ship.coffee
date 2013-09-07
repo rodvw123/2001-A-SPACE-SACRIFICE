@@ -1,31 +1,46 @@
 
-class ship_overview
-	@sys_nav: true
-	@sys_bridge: true
-	@sys_communications: true
-	
-	@sys_core: true
-	@sys_fuel: true
-	@sys_power: true
-	@sys_engineering: true
-	@sys_supplies: true
+class App.ship_control
+	@systems = [sys_bridge,
+				sys_nav,
+				sys_comm,
+				sys_supp,
 
-	@sys_shielding: true
+				sys_shields,
 
-	@sys_engine_one: true
-	@sys_engine_two: true
-	@sys_engine_three: true
-	@sys_engine_four: true
+				sys_eng_one,
+				sys_eng_two,
+				sys_eng_three,
+				sys_eng_four,
 
-	@sys_life_one: true
-	@sys_life_two: true
+				sys_pass_one,
+				sys_pass_two,
+				sys_pass_three,
+				sys_pass_four,
+				sys_pass_four,
+				sys_pass_four,
 
-	@sys_pass_one: true
-	@sys_pass_two: true
-	@sys_pass_three: true
-	@sys_pass_four: true
-	@sys_pass_five: true
-	@sys_pass_six: true
+				sys_life_one,
+				sys_life_two,
+
+				sys_engineering,
+				sys_power,
+				sys_fuel,
+				sys_core
+				]
+	@enumerate_power: ->
+		power = 0
+		stat = null
+		for sys in @systems
+			stat = sys.status()
+			if stat[0]
+				power += stat[1]
+
+	@main: ->
+		pow_avail = sys_power.output()
+
+
+
+class App.ship_view
 
 
 #class ship_view
