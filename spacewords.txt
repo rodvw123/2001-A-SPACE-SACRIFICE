@@ -1,0 +1,4 @@
+Quasar, Pulsar, Galaxy, Nova, Supernova, Hypernova, Magnetar, Asteroid, Moon, 
+Star, Corona, Albedo, Planet, Satelite, Nebula, Exoplanet, Dwarf, Subdwarf,
+Giant, Subgiant, Supergiant, Hypergiant, Blazar, Vulcanoid, Starburst, 
+Supercluster
