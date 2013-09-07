@@ -1,4 +1,1 @@
-build/*.html
-build/art/*
-build/css/*
-build/scripts/*
+build
