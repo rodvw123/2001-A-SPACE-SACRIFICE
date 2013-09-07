@@ -5,5 +5,6 @@ compile:
 
 install:
 	cp -R src/html/* build/
+	cp -R src/art/* build/art/
 	cp -R src/css/* build/css/
 	cp -R src/ecma/* build/scripts/
