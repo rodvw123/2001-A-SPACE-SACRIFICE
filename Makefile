@@ -17,4 +17,4 @@ clean:
 	rm -r build
 
 run:
-	cd build; python2 -m SimpleHTTPServer 8000
+	cd build; python -m SimpleHTTPServer 8000
